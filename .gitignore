@@ -1,0 +1,28 @@
+# Generated output files
+*.csv
+*.h5
+*.pkl
+*.pth
+data
+# Results directory
+/results/
+
+# Python dependency directory
+/__pycache__/
+*.pyc
+env/
+
+# Jupyter Notebook-specific files
+.ipynb_checkpoints/
+*.ipynb-meta
+
+# Jupyter Lab-specific directory (if using Jupyter Lab)
+/.venv/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Other project-specific files and directories

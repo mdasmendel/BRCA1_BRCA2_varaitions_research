@@ -61,7 +61,7 @@ For detailed information on how to use GATK and its various tools, refer to the 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/project.git
+git clone https://github.com/mdasmendel/BRCA1_BRCA2_varaitions_research.git
 ```
 
 2. Install the required dependencies:
